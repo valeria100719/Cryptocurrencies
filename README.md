@@ -19,7 +19,7 @@ Here the results about these 532 cryptocurrencies:
 
 ### 3D Scatter plot
 
- ![alt text](https://github.com/valeria100719/Cryptocurrencies/blob/main/pics/2.png?raw=true)
+ ![alt text](https://github.com/valeria100719/Cryptocurrencies/blob/main/2.png?raw=true)
 ### 2D scatter plot
 
- ![alt text](https://github.com/valeria100719/Cryptocurrencies/blob/main/pics/3.png?raw=true)
+ ![alt text](https://github.com/valeria100719/Cryptocurrencies/blob/main/3.png?raw=true)
